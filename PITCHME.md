@@ -5,7 +5,7 @@
 #### @sharathb and @tonybruce77
 <br>
 <br>
-<span class="byline">[ GitHub, GitLab, Bitbucket, GitBucket, Gitea, Gogs ]</span>
+
 
 ---
 
@@ -23,6 +23,6 @@
 And T-shirts
 
 <br>
-<span class="aside">Just like this one...</span>
+
 
 ---
