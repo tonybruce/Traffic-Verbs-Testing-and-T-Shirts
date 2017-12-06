@@ -20,8 +20,29 @@
     * REST-Server
     * Curl  
     
-And T-shirts
+* And T-shirts
+
+---
+
+## How does HTTP work?
+
+Client-server* transactions consist of three main parts.
+* A response or request line
+* Header information
+* The body
+
+*meaning a computer system where a central server provides data to a number of networked workstations.
+
+---
+
+## A _*request*_ or response line
+
+The _*request*_ line has three parts - 
+* A method name
+* Local path of the requested resource
+* The version of HTTP used
 
 
 
+GET /2018/session/traffic-verbs-testing-and-t-shirts/ HTTP/1.1
 ---
