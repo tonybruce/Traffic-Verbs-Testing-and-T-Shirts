@@ -67,21 +67,22 @@ TODO: Explanation
 ---
 ## GET  
 
-<span style="color:blue">_***GET requests***_ </span> ask for data, and <span style="color:blue">_***does not change***_ </span> the data on the server
-GET <span style="color:blue">_***returns***_ </span> a representation in XML or JSON and an HTTP response code of <span style="color:blue">_***200 (OK)***_ </span>
+<span style="color:blue">_***GET requests***_ </span> ask for data, and <span style="color:blue">_***do not change***_ </span> the data on the server  
+<span style="color:blue">_***GET returns/responses***_ </span> are a representation in XML or JSON and a HTTP response code of <span style="color:blue">_***200 (OK)***_ </span> if everything is OK  
 In an <span style="color:blue">_***error***_ </span> case, it most often returns a <span style="color:blue">_***404 (NOT FOUND)***_ </span> or <span style="color:blue">_***400 (BAD REQUEST)***_ </span>
 
 ---
 
 ## GET - Let's have a look
 
-Launch dev tools in your browser:
-* Chrome - Shift + Ctrl + i
-* Firefox - Ctrl + Shift + k
-* Internet Explorer - F12
+Launch dev tools in your browser:  
+* Chrome - Shift + Ctrl + i  
+* Firefox - Ctrl + Shift + k  
+* Internet Explorer - F12  
 
-Select the Network tab
-Browse to https://gitpitch.com/tonybruce/Traffic-Verbs-Testing-and-T-Shirts
-The first request should be the GET request for the page
+Select the Network tab  
+Browse to https://gitpitch.com/tonybruce/Traffic-Verbs-Testing-and-T-Shirts  
+The first request should be the GET request for the page  
 ---
 ![Get](assets/get.jpg)
+---
