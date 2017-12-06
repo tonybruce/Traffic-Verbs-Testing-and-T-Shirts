@@ -19,7 +19,6 @@
     * Postman
     * REST-Server
     * Curl  
-    
 * And T-shirts
 
 ---
@@ -42,7 +41,6 @@ The _*request*_ line has three parts -
 * Local path of the requested resource
 * The version of HTTP used
 
+GET /tonybruce/Traffic-Verbs-Testing-and-T-Shirts/master HTTP/1.1
 
-
-GET /2018/session/traffic-verbs-testing-and-t-shirts/ HTTP/1.1
 ---
