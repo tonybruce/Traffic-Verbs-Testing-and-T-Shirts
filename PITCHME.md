@@ -43,7 +43,23 @@ The <span style="color:blue">_***request***_ </span> line has three parts -
 
 > GET /tonybruce/Traffic-Verbs-Testing-and-T-Shirts/master HTTP/1.1
 
+<br>
 ---
-
+## Header Information 
+```
+GET /tonybruce/Traffic-Verbs-Testing-and-T-Shirts/master HTTP/1.1
+Host: gitpitch.com
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
+Cookie: _ga=GA1.2.1473685318.1512492645; _gid=GA1.2.1103842518.1512492645; _gat=1
+```
+---
+## HTTP Verbs
 
 
