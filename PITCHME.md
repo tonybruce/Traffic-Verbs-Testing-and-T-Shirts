@@ -34,9 +34,9 @@ Client-server* transactions consist of three main parts.
 
 ---
 
-## A _*request*_ or response line
+## A _**request**_ or response line
 
-The _*request*_ line has three parts - 
+The _**request**_ line has three parts - 
 * A method name
 * Local path of the requested resource
 * The version of HTTP used
