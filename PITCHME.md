@@ -62,4 +62,26 @@ Cookie: _ga=GA1.2.1473685318.1512492645; _gid=GA1.2.1103842518.1512492645; _gat=
 ---
 ## HTTP Verbs
 
+TODO: Explanation
 
+---
+## GET  
+
+<span style="color:blue">_***GET requests***_ </span> ask for data, and <span style="color:blue">_***does not change***_ </span> the data on the server
+GET <span style="color:blue">_***returns***_ </span> a representation in XML or JSON and an HTTP response code of <span style="color:blue">_***200 (OK)***_ </span>
+In an <span style="color:blue">_***error***_ </span> case, it most often returns a <span style="color:blue">_***404 (NOT FOUND)***_ </span> or <span style="color:blue">_***400 (BAD REQUEST)***_ </span>
+
+---
+
+## GET - Let's have a look
+
+Launch dev tools in your browser:
+* Chrome - Shift + Ctrl + i
+* Firefox - Ctrl + Shift + k
+* Internet Explorer - F12
+
+Select the Network tab
+Browse to https://gitpitch.com/tonybruce/Traffic-Verbs-Testing-and-T-Shirts
+The first request should be the GET request for the page
+---
+![Get](assets/get.jpg)
