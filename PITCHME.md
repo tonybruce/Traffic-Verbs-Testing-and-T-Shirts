@@ -34,13 +34,16 @@ Client-server* transactions consist of three main parts.
 
 ---
 
-## A _**request**_ or response line
+## A <span style="color:blue">_***request***_</span> or response line
 
-The _**request**_ line has three parts - 
+The <span style="color:blue">_***request***_ </span> line has three parts - 
 * A method name
 * Local path of the requested resource
 * The version of HTTP used
 
-GET /tonybruce/Traffic-Verbs-Testing-and-T-Shirts/master HTTP/1.1
+> GET /tonybruce/Traffic-Verbs-Testing-and-T-Shirts/master HTTP/1.1
 
 ---
+
+
+
