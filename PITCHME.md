@@ -62,7 +62,7 @@ Cookie: _ga=GA1.2.1473685318.1512492645; _gid=GA1.2.1103842518.1512492645; _gat=
 ---
 ## HTTP Verbs
 
-TODO: Explanation
+HTTP defines methods (sometimes referred to as verbs) to indicate the desired action to be performed on the identified resource. What this resource represents, whether pre-existing data or data that is generated dynamically, depends on the implementation of the server.
 
 ---
 ## GET  
