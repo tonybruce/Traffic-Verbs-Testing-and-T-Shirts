@@ -1,0 +1,45 @@
+Notes from 27/03/18
+
+Ice breaker
+Ask audience for their current understanding and awareness of HTTP and REST APIs
+    Sticky notes, collected somewhere
+    We will go through these at the end of the day
+ Demo of public API
+    GET
+    POST
+    Theory
+    Status Codes
+TShirts
+Somebody acts as a judge, calls out when a request should not have been successful
+* Maybe a little challenge here
+Theory/explanation
+    Visual
+    Match back to previous demo
+    Broswer traffic
+    HTTP
+Warm up after lunch
+    * something with tshirts?
+Tools
+    API Testing
+    Broswer
+        Talk about working out requests in the browser
+    Small challenges
+Test scenarios
+    How to test them
+Test with particular tools
+Debrief
+Add to cheat sheet
+repeat
+
+End with big debrief
+Circle back to sticky notes from the morning
+Warm down/chill exercise - Rain?
+
+
+TODO Something with HTTPS > Need work out where this fits
+TODO API Security
+TODO XML/JSON
+TODO Mocking
+TODO work out where to have debriefs
+TODO Create a cheatsheet through the day
+TODO Harder challenges
