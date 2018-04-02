@@ -19,7 +19,21 @@
     * Postman
     * REST-Server
     * Curl  
+    * Karate
 * And T-shirts
+
+---
+## Background: What are the technologies?
+
+HTTP: is an application protocol for distributed, collaborative, and hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web
+
+HTTP Verbs/Methods: HTTP defines methods (sometimes referred to as verbs) to indicate the desired action to be performed on the identified resource. What this resource represents, whether pre-existing data or data that is generated dynamically, depends on the implementation of the server
+
+HTTP Headers: carry information such as information about the client browser, the requested page, the server and etc
+
+HTTP Status Codes: are used to convey the results of a request, for example 200 (OK) generally means the request was carried out successfully
+
+API: is a set of subroutine definitions, protocols, and tools for building application software. In general terms, it is a set of clearly defined methods of communication between various software components
 
 ---
 
@@ -45,6 +59,18 @@ The <span style="color:blue">_***request***_ </span> line has three parts -
 
 <br>
 ---
+## A request or <span style="color:blue">_***response***_</span> line
+
+The <span style="color:blue">_***response***_ </span> line has three parts -
+The version of HTTP used
+A response status code 
+English reason phrase which describes the status code
+
+
+
+<span style="color:green">_***HTTP/1.1 200 OK***_</span>
+
+
 ## Header Information 
 ```
 GET /tonybruce/Traffic-Verbs-Testing-and-T-Shirts/master HTTP/1.1
@@ -62,7 +88,7 @@ Cookie: _ga=GA1.2.1473685318.1512492645; _gid=GA1.2.1103842518.1512492645; _gat=
 ---
 ## HTTP Verbs
 
-HTTP defines methods (sometimes referred to as verbs) to indicate the desired action to be performed on the identified resource. What this resource represents, whether pre-existing data or data that is generated dynamically, depends on the implementation of the server.
+HTTP defines methods (sometimes referred to as verbs) to indicate the desired action to be performed on the identified resource. What this resource represents, whether pre-existing data or data that is generated dynamically, depends on the implementation of the server
 
 ---
 ## GET  
@@ -86,3 +112,13 @@ The first request should be the GET request for the page
 ---
 ![Get](assets/get.jpg)
 ---
+## POST
+
+The <span style="color:blue">_***POST request***_ </span> is most-often utilised to <span style="color:blue">_***create***</span> new resources. 
+On successful creation, return <span style="color:blue">_***HTTP status 201***</span>, returning a Location header with a link to the newly-created resource with the <span style="color:blue">_***201 HTTP status***</span>
+---
+## POST - Let's have a look
+
+TODO
+---
+
