@@ -154,12 +154,25 @@ Master data can be cloned to different client’s dataset. Client can then custo
 
 
 ---
-There are 3 parts
+Your group needs to split into 3 parts:
+
 Verbs
 Client
 Server
 
 The t-shirts are the verbs
+
+---
+
+At the client create the request
+Each request needs - 
+The correct verb
+Any headers required
+Any body required
+
+---
+
+
 
 TODO Poster with HTTP verbs
 TODO Poster with status codes
