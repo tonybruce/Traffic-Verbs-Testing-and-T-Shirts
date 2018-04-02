@@ -25,21 +25,28 @@
 ---
 ## Background: What are the technologies?
 
-HTTP: is an application protocol for distributed, collaborative, and hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web
+**HTTP**: is an application protocol for distributed, collaborative, and hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web
 
 ---
-HTTP Verbs/Methods: HTTP defines methods (sometimes referred to as verbs) to indicate the desired action to be performed on the identified resource. What this resource represents, whether pre-existing data or data that is generated dynamically, depends on the implementation of the server
+**HTTP Verbs/Methods**: HTTP defines methods (sometimes referred to as verbs) to indicate the desired action to be performed on the identified resource. What this resource represents, whether pre-existing data or data that is generated dynamically, depends on the implementation of the server
 
 ---
-HTTP Headers: carry information such as information about the client browser, the requested page, the server and etc
+**HTTP Headers:** carry information such as information about the client browser, the requested page, the server and etc
 
 ---
-HTTP Status Codes: are used to convey the results of a request, for example 200 (OK) generally means the request was carried out successfully
+**HTTP Status Codes**: are used to convey the results of a request, for example 200 (OK) generally means the request was carried out successfully
 
 ---
-API: is a set of subroutine definitions, protocols, and tools for building application software. In general terms, it is a set of clearly defined methods of communication between various software components
+**API**: is a set of subroutine definitions, protocols, and tools for building application software. In general terms, it is a set of clearly defined methods of communication between various software components
 
 ---
+**REST**: Representational state transfer (REST) or RESTful web services are a way of providing interoperability between computer systems on the Internet. REST-compliant Web services allow requesting systems to access and manipulate textual representations of Web resources using a uniform and predefined set of stateless operations. 
+
+---
+**RESTful API**: A RESTful API is an application program interface (API) that uses HTTP requests to GET, PUT, POST and DELETE data.
+
+---
+![Get](assets/tech.jpg)
 
 ## How does HTTP work?
 
@@ -90,6 +97,7 @@ Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
 Cookie: _ga=GA1.2.1473685318.1512492645; _gid=GA1.2.1103842518.1512492645; _gat=1
 ```
 ---
+TODO This is a repeat
 ## HTTP Verbs
 
 HTTP defines methods (sometimes referred to as verbs) to indicate the desired action to be performed on the identified resource. What this resource represents, whether pre-existing data or data that is generated dynamically, depends on the implementation of the server
@@ -118,11 +126,33 @@ The first request should be the GET request for the page
 ---
 ## POST
 
-The <span style="color:blue">_***POST request***_ </span> is most-often utilised to <span style="color:blue">_***create***</span> new resources. 
+The <span style="color:blue">_***POST request***_ </span> is most-often utilised to <span style="color:blue">_***create***</span> new resources
 On successful creation, return <span style="color:blue">_***HTTP status 201***</span>, returning a Location header with a link to the newly-created resource with the <span style="color:blue">_***201 HTTP status***</span>
 ---
 ## POST - Let's have a look
 
 TODO
 ---
+## EXERCISE
 
+**Context**
+We build questionnaires that help businesses collect feedback from their customers. One of our recent client is TODO
+
+**Architecture**
+Master data can be cloned to different client’s dataset. Client can then customize the cloned data using web services (REST API’s)
+
+
+---
+:HTTP verbs used:
+GET
+POST
+PATCH
+DELETE
+TODO 
+:Client:
+URL - on the card
+Headers - on the card
+BODY for POST, PATCH - on the card
+:Server:
+RESPONSE code - write on sticky
+RESPONSE BODY - on the card
