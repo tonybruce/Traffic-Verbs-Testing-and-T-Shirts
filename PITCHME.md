@@ -133,7 +133,7 @@ The first request should be the GET request for the page
 ## POST
 
 The <span style="color:blue">_***POST request***_ </span> is most-often utilised to <span style="color:blue">_***create***_</span> new resources
-On successful creation, return <span style="color:blue">_***HTTP status 201***_</span>, returning a Location header with a link to the newly-created resource with the <span style="color:blue">_***201 HTTP status_***</span>
+On successful creation, return <span style="color:blue">_***HTTP status 201***_</span>, returning a Location header with a link to the newly-created resource with the <span style="color:blue">_***201 HTTP status***_</span>
 ---
 ## POST - Let's have a look
 
@@ -154,7 +154,12 @@ Master data can be cloned to different client’s dataset. Client can then custo
 
 
 ---
-The t-shirts are the HTTP verbs.
+There are 3 parts
+Verbs
+Client
+Server
+
+The t-shirts are the verbs
 
 TODO Poster with HTTP verbs
 TODO Poster with status codes
@@ -167,3 +172,6 @@ BODY for POST, PATCH - on the card
 :Server:
 RESPONSE code - write on sticky
 RESPONSE BODY - on the card
+
+---
+
