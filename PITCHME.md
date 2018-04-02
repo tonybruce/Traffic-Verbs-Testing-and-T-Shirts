@@ -8,6 +8,11 @@
 
 
 ---
+## Ice Breaker
+
+![Get](assets/ice.png)
+![Get](assets/mallet.png)
+---
 
 @title[PITCHME.md]
 
@@ -48,6 +53,7 @@
 ---
 ![Get](assets/tech.jpg)
 
+---
 ## How does HTTP work?
 
 Client-server* transactions consist of three main parts.
@@ -126,14 +132,19 @@ The first request should be the GET request for the page
 ---
 ## POST
 
-The <span style="color:blue">_***POST request***_ </span> is most-often utilised to <span style="color:blue">_***create***</span> new resources
-On successful creation, return <span style="color:blue">_***HTTP status 201***</span>, returning a Location header with a link to the newly-created resource with the <span style="color:blue">_***201 HTTP status***</span>
+The <span style="color:blue">_***POST request***_ </span> is most-often utilised to <span style="color:blue">_***create***_</span> new resources
+On successful creation, return <span style="color:blue">_***HTTP status 201***_</span>, returning a Location header with a link to the newly-created resource with the <span style="color:blue">_***201 HTTP status_***</span>
 ---
 ## POST - Let's have a look
 
 TODO
 ---
 ## EXERCISE
+![Get](assets/tshirt.png)
+
+---
+TODO needs work
+TODO I don't understand the use of this
 
 **Context**
 We build questionnaires that help businesses collect feedback from their customers. One of our recent client is TODO
@@ -143,11 +154,11 @@ Master data can be cloned to different client’s dataset. Client can then custo
 
 
 ---
-:HTTP verbs used:
-GET
-POST
-PATCH
-DELETE
+The t-shirts are the HTTP verbs.
+
+TODO Poster with HTTP verbs
+TODO Poster with status codes
+
 TODO 
 :Client:
 URL - on the card
