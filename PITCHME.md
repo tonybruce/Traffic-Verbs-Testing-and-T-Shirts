@@ -30,6 +30,12 @@
 ---
 ## Background: What are the technologies?
 
+**OSI Model**: 
+![Get](assets/OSI.png)
+
+
+---
+
 **HTTP**: is an application protocol for distributed, collaborative, and hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web
 
 ---
