@@ -26,9 +26,6 @@
     * Curl  
     * Karate
 * And T-shirts
----
-## What are Web Api's?
-
 
 ---
 ## Background: What are the technologies?
