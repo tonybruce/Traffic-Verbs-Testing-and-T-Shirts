@@ -26,6 +26,11 @@
     * Curl  
     * Karate
 * And T-shirts
+---
+## What are Web Api's?
+In simple words **web apis** enable communication between several machines
+
+![Get](assets/whatIsAnApi.png)
 
 ---
 ## Background: What are the technologies?
