@@ -28,9 +28,7 @@
 * And T-shirts
 ---
 ## What are Web Api's?
-In simple words **web apis** enable communication between several machines
 
-![Get](assets/whatIsAnApi.png)
 
 ---
 ## Background: What are the technologies?
@@ -48,6 +46,11 @@ In simple words **web apis** enable communication between several machines
 
 ---
 **API**: is a set of subroutine definitions, protocols, and tools for building application software. In general terms, it is a set of clearly defined methods of communication between various software components
+
+---
+**Web API**: In simple words **web apis** enable communication between several machines
+
+![Get](assets/whatIsAnApi.png)
 
 ---
 **REST**: Representational state transfer (REST) or RESTful web services are a way of providing interoperability between computer systems on the Internet. REST-compliant Web services allow requesting systems to access and manipulate textual representations of Web resources using a uniform and predefined set of stateless operations. 
