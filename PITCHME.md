@@ -31,7 +31,11 @@
 ## Background: What are the technologies?
 
 **OSI Model**: 
-![Get](assets/OSI.png)
+![Get](assets/osiChuckNorris.png)
+
+---
+**OSI Model**:
+![Get](assets/osi.png)
 
 
 ---
