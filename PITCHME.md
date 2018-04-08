@@ -35,7 +35,7 @@
 
 ---
 **OSI Model**:
-![Get](assets/osi)
+![Get](assets/osi.png)
 
 
 ---
