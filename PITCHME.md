@@ -31,11 +31,11 @@
 ## Background: What are the technologies?
 
 **OSI Model**: 
-![Get](assets/osiChuckNorris.png)
+![Get](assets/osiChuckNorris.png&size=auto)
 
 ---
 **OSI Model**:
-![Get](assets/OSI.png)
+![Get](assets/OSI.png&size=auto)
 
 
 ---
