@@ -33,14 +33,11 @@
 ---
 **OSI Model**: 
 <!--![Get](assets/osiChuckNorris.png) -->
-?image=assets/osiChuckNorris.png&size=contain
++++?image=assets/osiChuckNorris.png&size=contain
 
-Custom size: contain
-
----
-**OSI Model**: 
++++?image=assets/OSI.png&size=contain
 <!--![Get](assets/OSI.png) -->
-?image=assets/OSI.png&size=contain
+
 
 ---
 **HTTP**: is an application protocol for distributed, collaborative, and hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web
