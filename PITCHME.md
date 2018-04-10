@@ -31,12 +31,10 @@
 ## Background: What are the technologies?
 
 ---
-**OSI Model**: 
-<!--![Get](assets/osiChuckNorris.png) -->
+**OSI reference model**: is reference model for how applications can communicate over a network.
 +++?image=assets/osiChuckNorris.png&size=contain
 
 +++?image=assets/OSI.png&size=contain
-<!--![Get](assets/OSI.png) -->
 
 
 ---
