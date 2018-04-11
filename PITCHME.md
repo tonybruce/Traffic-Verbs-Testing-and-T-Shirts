@@ -58,6 +58,9 @@
 ![Get](assets/whatIsAnApi.png)
 
 ---
+**SOAP (Simple Object Access Protocol)**: SOAP is an XML-based messaging protocol. It defines a set of rules for structuring messages that can be used for simple one-way messaging but is particularly useful for performing RPC-style (Remote Procedure Call) request-response dialogues. 
+
+---
 **REST**: Representational state transfer (REST) or RESTful web services are a way of providing interoperability between computer systems on the Internet. REST-compliant Web services allow requesting systems to access and manipulate textual representations of Web resources using a uniform and predefined set of stateless operations. 
 
 ---
@@ -65,6 +68,12 @@
 
 ---
 ![Get](assets/tech.jpg)
+
+---
+**REST vs SOAP**:
+![Get](assets/restVsSoap.jpg)
+
+source: https://blog.restcase.com/the-rise-of-rest-api/
 
 ---
 ## How does HTTP work?
