@@ -30,6 +30,14 @@
 ---
 ## Background: What are the technologies?
 
+---
+**OSI reference model**: is reference model for how applications can communicate over a network.
++++?image=assets/osiChuckNorris.png&size=contain
+
++++?image=assets/OSI.png&size=contain
+
+
+---
 **HTTP**: is an application protocol for distributed, collaborative, and hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web
 
 ---
@@ -45,6 +53,14 @@
 **API**: is a set of subroutine definitions, protocols, and tools for building application software. In general terms, it is a set of clearly defined methods of communication between various software components
 
 ---
+**Web API**: In simple words **web apis** enable communication between several machines
+
+![Get](assets/whatIsAnApi.png)
+
+---
+**SOAP (Simple Object Access Protocol)**: SOAP is an XML-based messaging protocol. It defines a set of rules for structuring messages that can be used for simple one-way messaging but is particularly useful for performing RPC-style (Remote Procedure Call) request-response dialogues. 
+
+---
 **REST**: Representational state transfer (REST) or RESTful web services are a way of providing interoperability between computer systems on the Internet. REST-compliant Web services allow requesting systems to access and manipulate textual representations of Web resources using a uniform and predefined set of stateless operations. 
 
 ---
@@ -52,6 +68,12 @@
 
 ---
 ![Get](assets/tech.jpg)
+
+---
+**REST vs SOAP**:
+![Get](assets/restVsSoap.jpg)
+
+source: https://blog.restcase.com/the-rise-of-rest-api/
 
 ---
 ## How does HTTP work?
