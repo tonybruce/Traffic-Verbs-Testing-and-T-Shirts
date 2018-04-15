@@ -125,12 +125,7 @@ Accept-Language: en-GB,en-US;q=0.9,en;q=0.8
 Cookie: _ga=GA1.2.1473685318.1512492645; _gid=GA1.2.1103842518.1512492645; _gat=1
 ```
 ---
-TODO This is a repeat
-## HTTP Verbs
 
-HTTP defines methods (sometimes referred to as verbs) to indicate the desired action to be performed on the identified resource. What this resource represents, whether pre-existing data or data that is generated dynamically, depends on the implementation of the server
-
----
 ## GET  
 
 <span style="color:blue">_***GET requests***_ </span> ask for data, and <span style="color:blue">_***do not change***_ </span> the data on the server  
@@ -189,20 +184,20 @@ The correct verb has to be written on the t-shirt
 
 ---
 
-At the client create the request
-Each request needs - 
-The correct verb
-Any headers required
-Any body required
-TODO Anything else?
+At the client create the request  
+Each request needs -  
+The correct verb  
+Any headers required  
+Any body required  
+TODO Anything else?  
 ---
 
-Take the request to the server
-At the server create the response
-Each response needs -
-The correct status code
-Any headers required
-Any body required
+Take the request to the server  
+At the server create the response  
+Each response needs -  
+The correct status code  
+Any headers required  
+Any body required  
 
 ---
 
