@@ -188,7 +188,7 @@ There will be a decision made on correctness
 
 ---
 
-TODO Poster with HTTP verbs
+TODO Poster with HTTP verbs.
 TODO Poster with status codes
 
 TODO 
