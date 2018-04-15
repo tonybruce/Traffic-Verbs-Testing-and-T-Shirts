@@ -154,13 +154,16 @@ Master data can be cloned to different client’s dataset. Client can then custo
 
 
 ---
-Your group needs to split into 3 parts:
+Your table needs to split into 3 parts:
 
-Verbs
-Client
-Server
+Request/Response  
+Client  
+Server  
 
+---
 The t-shirts are the verbs
+One person wears the t-shirt
+The correct verb has to be written on the t-shirt  
 
 ---
 
@@ -169,10 +172,21 @@ Each request needs -
 The correct verb
 Any headers required
 Any body required
+TODO Anything else?
+---
+
+Take the request to the server
+At the server create the response
+Each response needs -
+The correct status code
+Any headers required
+Any body required
 
 ---
 
+There will be a decision made on correctness
 
+---
 
 TODO Poster with HTTP verbs
 TODO Poster with status codes
