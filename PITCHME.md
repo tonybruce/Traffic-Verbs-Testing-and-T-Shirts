@@ -139,7 +139,8 @@ In an <span style="color:blue">_***error***_ </span> case, it most often returns
 Launch dev tools in your browser:  
 * Chrome - Shift + Ctrl + i  
 * Firefox - Ctrl + Shift + k  
-* Internet Explorer - F12  
+* Internet Explorer - F12
+* Safari - Option + Command + i
 
 Select the Network tab  
 Browse to https://gitpitch.com/tonybruce/Traffic-Verbs-Testing-and-T-Shirts  
