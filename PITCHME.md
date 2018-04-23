@@ -37,7 +37,6 @@
 +++?image=assets/OSI.png&size=contain
 
 ---
-<p>
 
 **Physical** addresses the physical characteristics of the network, such as the types of cables used to connect devices, the types of connectors used, how long the cables can be, and so on
 
@@ -46,7 +45,7 @@
 **Network** handles the task of routing network messages from one computer to another. The two most popular Layer-3 protocols are IP (which is usually paired with TCP) and IPX (normally paired with SPX for use with Novell and Windows networks)
 
 **Transport** is the basic layer at which one network computer communicates with another network computer. The Transport Layer is where you’ll find one of the most popular networking protocols: TCP
-</p>
+
 ---
 **HTTP**: is an application protocol for distributed, collaborative, and hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web
 
