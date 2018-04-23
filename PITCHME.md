@@ -71,6 +71,9 @@
 
 ---
 **REST vs SOAP**:
+
+TODO are we doing something with this or is it reference material?
+
 ![Get](assets/restVsSoap.jpg)
 
 source: https://blog.restcase.com/the-rise-of-rest-api/
@@ -219,4 +222,58 @@ RESPONSE code - write on sticky
 RESPONSE BODY - on the card
 
 ---
+
+TODO ensure we have enough covering
+postman
+ curl
+rest client
+chrome dev tools
+wiremocks
+swagger
+json-server (mock)
+
+---
+
+## References
+
+https://stackoverflow.com/questions/5757864/structuring-online-documentation-for-a-rest-api 
+
+http://www.drdobbs.com/web-development/restful-web-services-a-tutorial/240169069 
+
+https://github.com/typicode/json-server 
+
+http://www.restapitutorial.com/ 
+
+https://any-api.com/ 
+
+http://dasunhegoda.com/rest-api-architecture-best-practices/1049/ 
+
+https://www.turnkeylinux.org/bugzilla
+
+https://www.whoishostingthis.com/resources/http-status-codes/ 
+
+https://httpstatusdogs.com/ 
+
+---
+
+## Exercises
+
+GET for active = false?
+Can I GET a specific conference type only if its false 
+Can you create more than one conference_type?
+Can we have duplicates?
+Can you edit the name of an existing conference type?
+
+---
+
+## Curl
+
+![Get](assets/curl-logo.svg)
+
+Curl -V
+
+https://curl.haxx.se/
+
+---
+## Public APIs
 
