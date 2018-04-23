@@ -1,6 +1,6 @@
 @title[Introduction]
 
-# Traffic, Verbs, Testing and T-Shirts
+## Traffic, Verbs, Testing & T-Shirts
 
 #### @sharathb and @tonybruce77
 <br>
