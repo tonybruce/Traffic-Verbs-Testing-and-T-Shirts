@@ -36,7 +36,13 @@
 
 +++?image=assets/OSI.png&size=contain
 
-
+---
+<p>
+Physical - addresses the physical characteristics of the network, such as the types of cables used to connect devices, the types of connectors used, how long the cables can be, and so on
+Data link - Data Link Layer is the lowest layer at which meaning is assigned to the bits that are transmitted over the network
+Network - Network Layer handles the task of routing network messages from one computer to another. The two most popular Layer-3 protocols are IP (which is usually paired with TCP) and IPX (normally paired with SPX for use with Novell and Windows networks)
+Transport - Transport Layer is the basic layer at which one network computer communicates with another network computer. The Transport Layer is where you’ll find one of the most popular networking protocols: TCP
+</p>
 ---
 **HTTP**: is an application protocol for distributed, collaborative, and hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web
 
@@ -236,23 +242,7 @@ json-server (mock)
 
 ## References
 
-https://stackoverflow.com/questions/5757864/structuring-online-documentation-for-a-rest-api 
-
-http://www.drdobbs.com/web-development/restful-web-services-a-tutorial/240169069 
-
-https://github.com/typicode/json-server 
-
-http://www.restapitutorial.com/ 
-
-https://any-api.com/ 
-
-http://dasunhegoda.com/rest-api-architecture-best-practices/1049/ 
-
-https://www.turnkeylinux.org/bugzilla
-
-https://www.whoishostingthis.com/resources/http-status-codes/ 
-
-https://httpstatusdogs.com/ 
+ 
 
 ---
 
