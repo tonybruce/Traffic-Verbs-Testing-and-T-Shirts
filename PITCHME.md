@@ -275,5 +275,9 @@ Curl -V
 https://curl.haxx.se/
 
 ---
+
 ## Public APIs
 
+---
+
+## Scenario bash
