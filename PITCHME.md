@@ -33,7 +33,7 @@
 
 What is our current understanding and awareness of HTTP and REST APIs?
 
-@fa[sticky-note]
+@fa[sticky-note fa-9x]
 
 ---
 ## Background: What are the technologies?
