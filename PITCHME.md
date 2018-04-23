@@ -17,15 +17,23 @@
 @title[PITCHME.md]
 
 ## Agenda
-* Quick overview of HTTP and REST API and what part they play
-* Introduction on how to start testing HTTP
-* Exercises to understand and test HTTP
-* Introduction to tools - 
-    * Postman
-    * REST-Server
+* Where are we?  
+* Quick overview of HTTP and REST API and what part they play  
+* Introduction on how to start testing HTTP  
+* Exercises to understand and test HTTP  
+* Introduction to tools -  
+    * Postman  
+    * REST-Server  
     * Curl  
-    * Karate
-* And T-shirts
+    * Karate  
+* And T-shirts  
+
+---
+## Where are we?
+
+What is our current understanding and awareness of HTTP and REST APIs?
+
+@fa[sticky-note]
 
 ---
 ## Background: What are the technologies?
