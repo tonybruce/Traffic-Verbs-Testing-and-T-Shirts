@@ -283,10 +283,77 @@ https://curl.haxx.se/
 
 ---
 
-## Public APIs
+## Public APIs - Challenges
+Challenege 1: GET me the cat for HTTP 500 from http.cat
+
+*Tool - Postman
+*Format: https://http.cat/[status_code]
+---
+Challenge 2: GET me a "big" cover for book "The Gruffalo" from https://openlibrary.org
+
+*Tool - Postman
+*Format: https://openlibrary.org/api/books?bibkeys=ISBN:<>
+*Documentation: https://openlibrary.org/dev/docs/api/books
+
+**Tips - ISBN:0333710932
+**Tips - https://covers.openlibrary.org/b/id/6506875-L.jpg
+
+Answer: 2 possible approaches
+
+1. GET ISBN for the book from the web
+2. Query by ISBN using format [https://openlibrary.org/api/books?bibkeys=ISBN:0333710932]
+3. In the response returned use https://covers.openlibrary.org/b/id/6506875-S.jpg
+4. Replace S with L
+5. GET call to https://covers.openlibrary.org/b/id/6506875-L.jpg
+
+1. GET ISBN for the book from the web
+2. From documentation learn adding & to the query by ISBN format [https://openlibrary.org/api/books?bibkeys=ISBN:0333710932&jscmd=data]
+3. Look up for response "large": "https://covers.openlibrary.org/b/id/6506875-L.jpg"
+4. GET call to https://covers.openlibrary.org/b/id/6506875-L.jpg
+
+---
+Challenge 3: GET me this page https://en.wikipedia.org/wiki/The_Lord_of_the_Rings
+
+*Tool - Of your choice
+*Documentation - https://www.mediawiki.org/wiki/API:Query
+
+Answer - https://en.wikipedia.org/w/api.php?action=query&titles=The%20Lord%20of%20the%20Rings&export&exportnowrap
+---
+Challenge 4: GET me game of thrones in ebook format from google books
+
+*Tool - Of your choice
+*Documentation - https://developers.google.com/books/docs/v1/getting_started
+
+Answer - https://www.googleapis.com/books/v1/volumes?q=a+game+of+thrones&filter=ebooks&maxResults=1
 
 ---
 
+Challenge 5: From itunes Get me the `track name - The Rains of Castamere` from `artist = Tina Guo`
+[https://itunes.apple.com/us/album/the-rains-of-castamere-from-game-of-thrones-single/892454207]
+
+*Tool - ARC (Rest Client)
+*Documentation - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
+**At times the documentation might suck. So google your way through to build the GET query?
+
+
+Answer --> https://itunes.apple.com/search?term=The+Rains+of+Castamere+Tina+Guo&entity=song&limit=1 
+
+(https://stackoverflow.com/questions/20378712/search-itunes-by-artist-and-song-title)
+
+
+---
+Challenege 6: Use chrome dev tools 'fetch' to find `How many people are in space right now`
+
+Answer - fetch('http://api.open-notify.org/astros.json')
+  .then(function(response) {
+    return response.json();
+  })
+  .then(function(myJson) {
+    
+
+console.log(myJson);
+  });
+---
 ## Scenario bash
 
 ---
