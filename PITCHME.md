@@ -271,14 +271,16 @@ It is also the internet transfer backbone for thousands of software applications
 ---
 
 ## Public APIs - Challenges
-Challenge 1: Request the cat for HTTP 500 from http.cat
+Challenge 1: Request the image for HTTP 500 from http.cat
+Browse to https://http.cat/
+Form the request needed
 
-*Tool - Postman
-*Format: https://http.cat/[status_code]
+*Tool - What tool would you use?
+
 ---
 Challenge 2: Request a "big" cover for book "The Gruffalo" from https://openlibrary.org
 
-*Tool - Postman
+*Tool - What tool would you use?
 *Format: https://openlibrary.org/api/books?bibkeys=ISBN:<>
 *Documentation: https://openlibrary.org/dev/docs/api/books
 
@@ -315,7 +317,7 @@ Answer - https://www.googleapis.com/books/v1/volumes?q=a+game+of+thrones&filter=
 
 ---
 
-Challenge 5: From itunes Get me the `track name - The Rains of Castamere` from `artist = Tina Guo`
+Challenge 5: From itunes Get the `track name - The Rains of Castamere` from `artist = Tina Guo`
 [https://itunes.apple.com/us/album/the-rains-of-castamere-from-game-of-thrones-single/892454207]
 
 *Tool - ARC (Rest Client)
@@ -329,7 +331,7 @@ Answer --> https://itunes.apple.com/search?term=The+Rains+of+Castamere+Tina+Guo&
 
 
 ---
-Challenege 6: Use chrome dev tools 'fetch' to find `How many people are in space right now`
+Challenge 6: Use chrome dev tools 'fetch' to find `How many people are in space right now`
 
 Answer - fetch('http://api.open-notify.org/astros.json')
   .then(function(response) {
