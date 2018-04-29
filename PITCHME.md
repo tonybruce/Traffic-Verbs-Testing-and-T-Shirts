@@ -260,7 +260,7 @@ json-server (mock)
 
 ## Curl
 
-![Get](assets/curl-logo.svg)
+![Get](assets/curl.png)
 
 Curl -V
 
