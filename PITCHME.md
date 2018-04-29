@@ -260,7 +260,8 @@ json-server (mock)
 
 ## Curl
 
-![Get](assets/curl.png)
+![Get](assets/curl.png)  
+
 https://curl.haxx.se/
 
 curl is used in command lines or scripts to transfer data. 
