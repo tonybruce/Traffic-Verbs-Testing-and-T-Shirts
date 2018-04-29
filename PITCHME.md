@@ -10,8 +10,8 @@
 ---
 ## Ice Breaker
 
----?image=assets/ice.png&size=auto
----?image=assets/mallet.png&size=auto
+---?image=assets/ice.png&size=auto 50%
+---?image=assets/mallet.png&size=auto 50%
 
 ---
 
