@@ -10,8 +10,9 @@
 ---
 ## Ice Breaker
 
-![Get](assets/ice.png)
-![Get](assets/mallet.png)
++++?image=assets/ice.png&size=contain
++++?image=assets/mallet.png&size=contain
+
 ---
 
 @title[PITCHME.md]
@@ -187,8 +188,6 @@ TODO
 ![Get](assets/tshirt.png)
 
 ---
-TODO needs work
-TODO I don't understand the use of this
 
 **Context**
 We build questionnaires that help businesses collect feedback from their customers. One of our recent client is TODO
@@ -261,15 +260,7 @@ json-server (mock)
 
  
 
----
 
-## Exercises
-
-GET for active = false?
-Can I GET a specific conference type only if its false 
-Can you create more than one conference_type?
-Can we have duplicates?
-Can you edit the name of an existing conference type?
 
 ---
 
@@ -284,12 +275,12 @@ https://curl.haxx.se/
 ---
 
 ## Public APIs - Challenges
-Challenege 1: GET me the cat for HTTP 500 from http.cat
+Challenge 1: Request the cat for HTTP 500 from http.cat
 
 *Tool - Postman
 *Format: https://http.cat/[status_code]
 ---
-Challenge 2: GET me a "big" cover for book "The Gruffalo" from https://openlibrary.org
+Challenge 2: Request a "big" cover for book "The Gruffalo" from https://openlibrary.org
 
 *Tool - Postman
 *Format: https://openlibrary.org/api/books?bibkeys=ISBN:<>
@@ -312,7 +303,7 @@ Answer: 2 possible approaches
 4. GET call to https://covers.openlibrary.org/b/id/6506875-L.jpg
 
 ---
-Challenge 3: GET me this page https://en.wikipedia.org/wiki/The_Lord_of_the_Rings
+Challenge 3: Retrieve the page https://en.wikipedia.org/wiki/The_Lord_of_the_Rings
 
 *Tool - Of your choice
 *Documentation - https://www.mediawiki.org/wiki/API:Query
