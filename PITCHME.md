@@ -370,7 +370,17 @@ console.log(myJson);
 
 ---
 
+**100 Continue**
+The initial part of a request has been received and has not yet been rejected by the server.
+The server intends to send a final response after the request has been fully received and acted upon.
+
+---
 **200 OK**
 Standard response for successful HTTP requests. The actual response will depend on the request method used.
-n a GET request, the response will contain an entity corresponding to the requested resource. In a POST request,
+In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request,
 the response will contain an entity describing or containing the result of the action.
+
+---
+**302 Found**
+The target resource resides temporarily under a different URI. Since the redirection might be altered on occasion,
+the client ought to continue to use the effective request URI for future requests. 
