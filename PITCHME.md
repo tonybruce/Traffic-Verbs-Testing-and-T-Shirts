@@ -272,15 +272,22 @@ It is also the internet transfer backbone for thousands of software applications
 
 ## Public APIs - Challenges
 Challenge 1: Request the image for HTTP 500 from http.cat
+
 Browse to https://http.cat/
+
 Form the request needed
 
 *Tool - What tool would you use?
 
 ---
-Challenge 2: Request a "big" cover for book "The Gruffalo" from https://openlibrary.org
+Challenge 2: Request a "big" cover for the book "The Gruffalo" from https://openlibrary.org
 
+Browse to https://openlibrary.org/dev/docs/api/books
+
+For the request needed
 *Tool - What tool would you use?
+
+
 *Format: https://openlibrary.org/api/books?bibkeys=ISBN:<>
 *Documentation: https://openlibrary.org/dev/docs/api/books
 
@@ -308,7 +315,8 @@ Challenge 3: Retrieve the page https://en.wikipedia.org/wiki/The_Lord_of_the_Rin
 
 Answer - https://en.wikipedia.org/w/api.php?action=query&titles=The%20Lord%20of%20the%20Rings&export&exportnowrap
 ---
-Challenge 4: GET me game of thrones in ebook format from google books
+
+Challenge 4: Retrieve The Game of Thrones ebook details from Google books
 
 *Tool - Of your choice
 *Documentation - https://developers.google.com/books/docs/v1/getting_started
@@ -317,7 +325,7 @@ Answer - https://www.googleapis.com/books/v1/volumes?q=a+game+of+thrones&filter=
 
 ---
 
-Challenge 5: From itunes Get the `track name - The Rains of Castamere` from `artist = Tina Guo`
+Challenge 5: From iTunes Get the `track name - The Rains of Castamere` from `artist = Tina Guo`
 [https://itunes.apple.com/us/album/the-rains-of-castamere-from-game-of-thrones-single/892454207]
 
 *Tool - ARC (Rest Client)
