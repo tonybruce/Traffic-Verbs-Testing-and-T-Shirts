@@ -285,6 +285,7 @@ Challenge 2: Request a "big" cover for the book "The Gruffalo" from https://open
 Browse to https://openlibrary.org/dev/docs/api/books
 
 For the request needed
+
 *Tool - What tool would you use?
 
 
