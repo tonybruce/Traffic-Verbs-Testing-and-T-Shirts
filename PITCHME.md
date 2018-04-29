@@ -1,4 +1,4 @@
-@title[Introduction]
+@title[Traffic, Verbs, Testing & T-Shirts]
 
 ### Traffic, Verbs, Testing & T-Shirts
 
@@ -9,8 +9,6 @@
 
 ---
 ## Ice Breaker
-+++?image=assets/ice.png
----?image=assets/mallet.png
 
 ---
 
@@ -25,8 +23,11 @@
     * Postman  
     * REST-Server  
     * Curl  
+    * WireMock
+    * Swagger
+    * Browser dev tools
     * Karate  
-* And T-shirts  
+And T-shirts  
 
 ---
 ## Where are we?
