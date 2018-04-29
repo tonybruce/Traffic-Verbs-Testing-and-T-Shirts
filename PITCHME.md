@@ -10,8 +10,8 @@
 ---
 ## Ice Breaker
 
-+++?image=assets/ice.png&size=contain
-+++?image=assets/mallet.png&size=contain
+---?image=assets/ice.png&size=auto
+---?image=assets/mallet.png&size=auto
 
 ---
 
@@ -96,7 +96,6 @@ What is our current understanding and awareness of HTTP and REST APIs?
 ---
 **REST vs SOAP**:
 
-TODO are we doing something with this or is it reference material?
 
 ![Get](assets/restVsSoap.jpg)
 
@@ -182,21 +181,16 @@ On successful creation, return <span style="color:blue">_***HTTP status 201***_<
 ---
 ## POST - Let's have a look
 
-TODO
+Make sure the Network tab is still acessible
+Browse to https://romaniatesting.ro/
+Enter some details in the Contact Us form and Send it
+You will see a POST request 
 ---
 ## EXERCISE
 ![Get](assets/tshirt.png)
 
 ---
 
-**Context**
-We build questionnaires that help businesses collect feedback from their customers. One of our recent client is TODO
-
-**Architecture**
-Master data can be cloned to different client’s dataset. Client can then customize the cloned data using web services (REST API’s)
-
-
----
 Your table needs to split into 3 parts:
 
 Request/Response  
