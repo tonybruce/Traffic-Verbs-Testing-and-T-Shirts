@@ -312,6 +312,7 @@ There will also be a status code visible, is this request was successful it shou
 ## Burpsuite
 
 ![Get](assets/38118.png)
+
 https://portswigger.net/burp
 
 ---
