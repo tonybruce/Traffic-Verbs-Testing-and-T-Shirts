@@ -214,10 +214,11 @@ The correct verb has to be written on the t-shirt
 
 At the client create the request  
 Each request needs -  
+The URL
 The correct verb  
 Any headers required  
 Any body required  
-TODO Anything else?  
+
 ---
 
 Take the request to the server  
