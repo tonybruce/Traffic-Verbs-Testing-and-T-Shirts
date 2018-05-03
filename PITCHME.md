@@ -249,8 +249,44 @@ https://curl.haxx.se/
 curl is used in command lines or scripts to transfer data. 
 It is also the internet transfer backbone for thousands of software applications affecting billions of humans daily.
 
-
 ---
+
+## Postman
+
+Postman is a tool used to test APIs
+It is used to interact with APIs through the requests and responses which are easy to create (in Postman)
+
++++?
+Launch Postman (you may receive a short-cuts modal, close it).  You will receive a window similar to this
+
++++?
+
+## Creating a request
+
+We are going to retrieve data so we are performing a GET request
+
+In the ‘Enter request URL’ field enter:  
+
+Click Send
+
+The response (visible in the bottom half of the window) will contain a body with all the data we retrieved
+
+There will also be a status code visible, if this request was successful it should display 200 OK
+
+🛈 You may want to explore the Cookies and Headers to see what kind of information is there
+
++++?
+
+Create a new request by using the New dropdown or the + symbol on the request tabs menu
+
+Creating a request for specific data
+
+We are going to retrieve specific data by specifying query parameters in our request
+In the ‘Enter request URL’ field enter:  https://syst.project4.com/api/rest/v1/catalog/products?skuId=236730173
+Click Send
+The response (visible in the bottom half of the window) will contain a body with the details exposed for the item with skuId: 236730173
+There will also be a status code visible, is this request was successful it should display 200 OK
+
 
 ## Public APIs - Challenges
 Challenge 1: Request the image for HTTP 500 from http.cat
