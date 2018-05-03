@@ -384,3 +384,9 @@ the response will contain an entity describing or containing the result of the a
 **302 Found**
 The target resource resides temporarily under a different URI. Since the redirection might be altered on occasion,
 the client ought to continue to use the effective request URI for future requests. 
+
+---
+**404 Not Found**
+The origin server did not find a current representation for the target resource or is not willing to disclose that one exists.
+
+---
