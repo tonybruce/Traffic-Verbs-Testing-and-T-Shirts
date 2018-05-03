@@ -279,12 +279,18 @@ There will also be a status code visible, if this request was successful it shou
 
 Create a new request by using the New dropdown or the + symbol on the request tabs menu
 
-Creating a request for specific data
++++?
+
+## Creating a request for specific data
 
 We are going to retrieve specific data by specifying query parameters in our request
-In the ‘Enter request URL’ field enter:  https://syst.project4.com/api/rest/v1/catalog/products?skuId=236730173
+
+In the ‘Enter request URL’ field enter:  
+
 Click Send
-The response (visible in the bottom half of the window) will contain a body with the details exposed for the item with skuId: 236730173
+
+The response (visible in the bottom half of the window) will contain a body with the details exposed for 
+
 There will also be a status code visible, is this request was successful it should display 200 OK
 
 
