@@ -293,6 +293,8 @@ In the ‘Enter request URL’ field enter:
 
 Click Send
 
++++?
+
 The response (visible in the bottom half of the window) will contain a body with the details exposed for 
 
 There will also be a status code visible, is this request was successful it should display 200 OK
