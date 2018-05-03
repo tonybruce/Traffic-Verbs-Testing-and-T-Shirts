@@ -183,10 +183,14 @@ On successful creation, return <span style="color:blue">_***HTTP status 201***_<
 ---
 ## POST - Let's have a look
 
-Make sure the Network tab is still acessible
-Browse to https://romaniatesting.ro/
+Make sure the Network tab is still accessible  
+
+Browse to https://romaniatesting.ro/  
+
 Enter some details in the Contact Us form and Send it
+
 You will see a POST request 
+
 ---
 ## EXERCISE
 ![Get](assets/tshirt.png)
