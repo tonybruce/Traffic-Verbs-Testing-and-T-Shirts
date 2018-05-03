@@ -257,7 +257,9 @@ Postman is a tool used to test APIs
 It is used to interact with APIs through the requests and responses which are easy to create (in Postman)
 
 +++?
-Launch Postman (you may receive a short-cuts modal, close it).  You will receive a window similar to this
+Launch Postman (you may receive a short-cuts modal, close it).  
+
+You will receive a window similar to this
 
 +++?
 
@@ -268,6 +270,8 @@ We are going to retrieve data so we are performing a GET request
 In the ‘Enter request URL’ field enter:  
 
 Click Send
+
++++?
 
 The response (visible in the bottom half of the window) will contain a body with all the data we retrieved
 
