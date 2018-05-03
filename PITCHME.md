@@ -28,7 +28,7 @@
     * WireMock
     * Swagger
     * Browser dev tools
-    * Karate  
+
 And T-shirts  
 
 ---
