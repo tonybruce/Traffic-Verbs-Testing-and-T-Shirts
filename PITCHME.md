@@ -260,6 +260,7 @@ It is also the internet transfer backbone for thousands of software applications
 ## Postman
 
 ![Get](assets/postman.png)
+https://www.getpostman.com
 
 Postman is a tool used to test APIs
 It is used to interact with APIs through the requests and responses which are easy to create (in Postman)
@@ -311,6 +312,9 @@ There will also be a status code visible, is this request was successful it shou
 ## Burpsuite
 
 ![Get](assets/38118.png)
+https://portswigger.net/burp
+
+---
 
 ## Public APIs - Challenges
 Challenge 1: Request the image for HTTP 500 from http.cat
