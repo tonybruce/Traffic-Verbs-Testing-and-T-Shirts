@@ -309,11 +309,13 @@ The response (visible in the bottom half of the window) will contain a body with
 There will also be a status code visible, is this request was successful it should display 200 OK
 
 ---
-## Burpsuite
+## Burp Suite
 
 ![Get](assets/38118.png)
 
 https://portswigger.net/burp
+
+A graphical tool for testing Web application security.
 
 ---
 
