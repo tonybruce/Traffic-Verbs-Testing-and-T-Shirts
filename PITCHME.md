@@ -204,8 +204,10 @@ Client
 Server  
 
 ---
-The t-shirts are the verbs
+The t-shirts are the verbs 
+
 One person wears the t-shirt
+
 The correct verb has to be written on the t-shirt  
 
 ---
