@@ -201,7 +201,7 @@ You will see a POST request
 ## EXERCISE
 ![Get](assets/tshirt.png)
 
----
++++?
 
 Your table needs to split into 3 parts:
 
@@ -209,14 +209,14 @@ Request/Response
 Client  
 Server  
 
----
++++?
 The t-shirts are the verbs 
 
 One person wears the t-shirt
 
 The correct verb has to be written on the t-shirt  
 
----
++++?
 
 At the client create the request  
 Each request needs -  
@@ -225,7 +225,7 @@ The correct verb
 Any headers required  
 Any body required  
 
----
++++?
 
 Take the request to the server  
 At the server create the response  
@@ -234,7 +234,7 @@ The correct status code
 Any headers required  
 Any body required  
 
----
++++?
 
 There will be a decision made on correctness
 
@@ -320,7 +320,10 @@ A graphical tool for testing Web application security.
 ---
 
 ## Public APIs - Challenges
-Challenge 1: Request the image for HTTP 500 from http.cat
+
+---
+
+**Challenge 1**: Request the image for HTTP 500 from http.cat
 
 Browse to https://http.cat/
 
@@ -329,7 +332,7 @@ Form the request needed
 *Tool - What tool would you use?
 
 ---
-Challenge 2: Request a "big" cover for the book "The Gruffalo" from https://openlibrary.org
+**Challenge 2**: Request a "big" cover for the book "The Gruffalo" from https://openlibrary.org
 
 Browse to https://openlibrary.org/dev/docs/api/books
 
@@ -360,7 +363,7 @@ Answer: 2 possible approaches
 4. GET call to https://covers.openlibrary.org/b/id/6506875-L.jpg
 
 ---
-Challenge 3: Retrieve the page https://en.wikipedia.org/wiki/The_Lord_of_the_Rings
+**Challenge 3**: Retrieve the page https://en.wikipedia.org/wiki/The_Lord_of_the_Rings
 
 *Tool - Of your choice
 *Documentation - https://www.mediawiki.org/wiki/API:Query
@@ -370,7 +373,7 @@ Challenge 3: Retrieve the page https://en.wikipedia.org/wiki/The_Lord_of_the_Rin
 Answer - https://en.wikipedia.org/w/api.php?action=query&titles=The%20Lord%20of%20the%20Rings&export&exportnowrap
 ---
 
-Challenge 4: Retrieve The Game of Thrones ebook details from Google books
+**Challenge 4**: Retrieve The Game of Thrones ebook details from Google books
 
 *Tool - Of your choice
 *Documentation - https://developers.google.com/books/docs/v1/getting_started
@@ -381,7 +384,7 @@ Answer - https://www.googleapis.com/books/v1/volumes?q=a+game+of+thrones&filter=
 
 ---
 
-Challenge 5: From iTunes Get the `track name - The Rains of Castamere` from `artist = Tina Guo`
+**Challenge 5**: From iTunes Get the `track name - The Rains of Castamere` from `artist = Tina Guo`
 [https://itunes.apple.com/us/album/the-rains-of-castamere-from-game-of-thrones-single/892454207]
 
 *Tool - ARC (Rest Client)
@@ -396,7 +399,7 @@ Answer --> https://itunes.apple.com/search?term=The+Rains+of+Castamere+Tina+Guo&
 
 
 ---
-Challenge 6: Use chrome dev tools 'fetch' to find `How many people are in space right now`
+**Challenge 6**: Use chrome dev tools 'fetch' to find `How many people are in space right now`
 
 Answer - fetch('http://api.open-notify.org/astros.json')
   .then(function(response) {
