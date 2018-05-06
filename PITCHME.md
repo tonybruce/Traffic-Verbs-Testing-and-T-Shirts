@@ -48,24 +48,24 @@ What is our current understanding and awareness of HTTP and REST APIs?
 ## Background: What are the technologies?
 
 ---
-**OSI reference model**: is reference model for how applications can communicate over a network.
+**Open Systems Interconnection (OSI) reference model**: is reference model for how applications can communicate over a network.
 +++?image=assets/osiChuckNorris.png&size=contain
 
 +++?image=assets/OSI.png&size=contain
 
----
++++?
 
 **Application Layer** deals with the techniques that application programs use to communicate with the network  
 **Presentation Layer** is responsible for converting the data sent over the network from one type of representation to another  
 **Session Layer** establishes sessions (instances of communication and data exchange) between network nodes  
 
----
++++?
 
 **Transport** is the basic layer at which one network computer communicates with another network computer. The Transport Layer is where you’ll find one of the most popular networking protocols: TCP  
 **Network** handles the task of routing network messages from one computer to another. The two most popular Layer-3 protocols are IP (which is usually paired with TCP) and IPX (normally paired with SPX for use with Novell and Windows networks)  
 **Data link** is the lowest layer at which meaning is assigned to the bits that are transmitted over the network  
 
----
++++?
 
 **Physical** addresses the physical characteristics of the network, such as the types of cables used to connect devices, the types of connectors used, how long the cables can be, and so on  
 
