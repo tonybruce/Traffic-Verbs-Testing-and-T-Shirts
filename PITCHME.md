@@ -42,7 +42,7 @@ And T-shirts
 
 What is our current understanding and awareness of HTTP and REST APIs?
 
-@fa[sticky-note fa-4x]@fa[sticky-note fa-4x]@fa[sticky-note fa-4x]@fa[sticky-note fa-4x]@fa[sticky-note fa-4x]@fa[sticky-note fa-4x]
+@fa[sticky-note fa-4x]@fa[sticky-note fa-4x]@fa[sticky-note fa-4x]@fa[sticky-note fa-4x]@fa[sticky-note fa-4x]
 @fa[sticky-note fa-4x]@fa[sticky-note fa-4x]@fa[sticky-note fa-4x]@fa[sticky-note fa-4x]@fa[sticky-note fa-4x]
 
 ---
