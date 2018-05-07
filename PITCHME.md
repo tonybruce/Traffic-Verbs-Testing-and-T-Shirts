@@ -256,7 +256,7 @@ Retrieve only `active` conference types
 ---
 ## Challenge 3
 
-GET me the first conference type
+Retrieve the first conference type
 
 ---
 ## Challenge 4
@@ -308,9 +308,11 @@ You will receive a window similar to this
 
 We are going to retrieve data so we are performing a GET request
 
-In the ‘Enter request URL’ field enter:  
+In the ‘Enter request URL’ field enter:  https://postman-echo.com/time/now
 
 Click Send
+
+This retrieves current UTC time
 
 +++?
 
@@ -330,9 +332,13 @@ Create a new request by using the New dropdown or the + symbol on the request ta
 
 We are going to retrieve specific data by specifying query parameters in our request
 
-In the ‘Enter request URL’ field enter:  
+We are going to check to see if this year is a leap year
+
+In the ‘Enter request URL’ field enter:  https://postman-echo.com/time/leap?timestamp=2018-05-10
 
 Click Send
+
+2016 was the last leap year
 
 +++?
 
@@ -372,8 +378,10 @@ For the request needed
 
 *Tool - What tool would you use?
 
++++?
 
 *Format: https://openlibrary.org/api/books?bibkeys=ISBN:<>
+
 *Documentation: https://openlibrary.org/dev/docs/api/books
 
 **Tips - ISBN:0333710932
@@ -383,13 +391,13 @@ For the request needed
 
 Answer: 2 possible approaches
 
-1. GET ISBN for the book from the web
+1. Find the ISBN for the book from the web
 2. Query by ISBN using format [https://openlibrary.org/api/books?bibkeys=ISBN:0333710932]
 3. In the response returned use https://covers.openlibrary.org/b/id/6506875-S.jpg
 4. Replace S with L
 5. GET call to https://covers.openlibrary.org/b/id/6506875-L.jpg
 
-1. GET ISBN for the book from the web
+1. Find the ISBN for the book from the web
 2. From documentation learn adding & to the query by ISBN format [https://openlibrary.org/api/books?bibkeys=ISBN:0333710932&jscmd=data]
 3. Look up for response "large": "https://covers.openlibrary.org/b/id/6506875-L.jpg"
 4. GET call to https://covers.openlibrary.org/b/id/6506875-L.jpg
@@ -397,18 +405,21 @@ Answer: 2 possible approaches
 ---
 **Challenge 3**: Retrieve the page https://en.wikipedia.org/wiki/The_Lord_of_the_Rings
 
-*Tool - Of your choice
 *Documentation - https://www.mediawiki.org/wiki/API:Query
+
+*Tool - Of your choice
 
 +++?
 
 Answer - https://en.wikipedia.org/w/api.php?action=query&titles=The%20Lord%20of%20the%20Rings&export&exportnowrap
+
 ---
 
 **Challenge 4**: Retrieve The Game of Thrones ebook details from Google books
 
-*Tool - Of your choice
 *Documentation - https://developers.google.com/books/docs/v1/getting_started
+
+*Tool - Of your choice
 
 +++?
 
@@ -416,12 +427,15 @@ Answer - https://www.googleapis.com/books/v1/volumes?q=a+game+of+thrones&filter=
 
 ---
 
-**Challenge 5**: From iTunes Get the `track name - The Rains of Castamere` from `artist = Tina Guo`
+**Challenge 5**: From iTunes retrieve the `track name - The Rains of Castamere` from `artist = Tina Guo`
+
 [https://itunes.apple.com/us/album/the-rains-of-castamere-from-game-of-thrones-single/892454207]
 
 *Tool - ARC (Rest Client)
+
 *Documentation - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
-**At times the documentation might suck. So google your way through to build the GET query?
+
+**At times the documentation might suck. So google your way through to build the query?
 
 
 +++?
@@ -429,9 +443,10 @@ Answer --> https://itunes.apple.com/search?term=The+Rains+of+Castamere+Tina+Guo&
 
 (https://stackoverflow.com/questions/20378712/search-itunes-by-artist-and-song-title)
 
-
 ---
 **Challenge 6**: Use chrome dev tools 'fetch' to find `How many people are in space right now`
+
++++?
 
 Answer - fetch('http://api.open-notify.org/astros.json')
   .then(function(response) {
