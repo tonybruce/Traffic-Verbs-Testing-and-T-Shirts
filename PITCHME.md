@@ -2,6 +2,7 @@
 
 ---?image=assets/rtc_background.png&size=auto 90%
 
+
 ---
 
 ## Warm up
@@ -171,7 +172,9 @@ Launch dev tools in your browser:
 * Chrome - Shift + Ctrl + i  
 * Firefox - Ctrl + Shift + k  
 * Internet Explorer - F12
-* Safari - Option + Command + i
+* Safari - Option + Command + i  
+
++++
 
 Select the Network tab  
 Browse to https://gitpitch.com/tonybruce/Traffic-Verbs-Testing-and-T-Shirts  
@@ -296,7 +299,7 @@ It is used to interact with APIs through the requests and responses which are ea
 Launch Postman (you may receive a short-cuts modal, close it).  
 
 You will receive a window similar to this
-
+![Get](assets/postman_blank.png)
 +++?
 
 ## Creating a request
