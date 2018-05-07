@@ -198,6 +198,10 @@ Enter some details in the Contact Us form and Send it
 You will see a POST request 
 
 ---
+
+![Get](assets/post2.png)
+
+---
 ## EXERCISE
 ![Get](assets/tshirt.png)
 
@@ -491,6 +495,7 @@ https://www.redmine.org/projects/redmine/wiki/Rest_api
 
 http://www.redmine.org/projects/redmine/wiki/Rest_api_with_curl
 
+---
 
 ## References
 
