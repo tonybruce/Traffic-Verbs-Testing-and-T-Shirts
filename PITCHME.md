@@ -246,12 +246,12 @@ There will be a decision made on correctness
 ---
 ## Challenge 1
 
-GET all conference types
+Retrieve all conference types
 
 ---
 ## Challenge 2
 
-GET only `active` conference types
+Retrieve only `active` conference types
 
 ---
 ## Challenge 3
