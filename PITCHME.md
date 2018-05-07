@@ -246,25 +246,20 @@ GET all conference types
 ---
 ## Challenge 2
 
-GET only active conference types
+GET only `active` conference types
 
 ---
 ## Challenge 3
 
-GET only `active` conference types
+GET me the first conference type
 
 ---
 ## Challenge 4
 
-GET me the first conference type
-
----
-## Challenge 5
-
 Create a new conference type called `Open House` and make it `active`
 
 ---
-## Challenge 6
+## Challenge 5
 
 Disable conference type `Workshop` 
 
