@@ -1,8 +1,10 @@
 @title[Traffic, Verbs, Testing & T-Shirts]
 
-![Get](assets/rtc_background.png)
+---?image=assets/rtc_background.png&size=auto 
 
----
+
+
+
 ## Warm up
 
 Whoosh!
