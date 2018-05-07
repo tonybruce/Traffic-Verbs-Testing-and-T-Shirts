@@ -515,6 +515,15 @@ http://www.redmine.org/projects/redmine/wiki/Rest_api_with_curl
 
 ---
 
+IP Address | Username | Password
+------------ | ------------- | -------------
+| user | IJSViKfeUDX5
+| user | uy4y0OVq2XVq
+
+These will be live for today only
+
+---
+
 ## References
 
 **Mocking**
