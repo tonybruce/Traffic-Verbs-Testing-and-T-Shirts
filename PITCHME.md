@@ -8,7 +8,7 @@
 
 
 ---
-## Ice Breaker
+## Warm up
 
 Whoosh!
 
@@ -453,6 +453,19 @@ The origin server did not find a current representation for the target resource 
 The server encountered an unexpected condition that prevented it from fulfilling the request.
 
 ---
+
+**Redmine**
+
+Redmine is a flexible project management web application. Written using the Ruby on Rails framework, it is cross-platform and cross-database.
+It has a UI
+It has a api
+
+API details are here: 
+
+https://www.redmine.org/projects/redmine/wiki/Rest_api
+
+http://www.redmine.org/projects/redmine/wiki/Rest_api_with_curl
+
 
 ## References
 
