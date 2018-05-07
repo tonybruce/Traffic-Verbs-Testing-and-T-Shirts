@@ -202,6 +202,7 @@ You will see a POST request
 ![Get](assets/post2.png)
 
 ---
+
 ## EXERCISE
 ![Get](assets/tshirt.png)
 
