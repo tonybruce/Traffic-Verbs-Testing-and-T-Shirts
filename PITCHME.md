@@ -1,6 +1,6 @@
 @title[Traffic, Verbs, Testing & T-Shirts]
 
----?image=assets/rtc_background.png
+![Get](assets/rtc_background.png)
 
 ---
 ## Warm up
