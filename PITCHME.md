@@ -80,7 +80,7 @@ What is our current understanding and awareness of HTTP and REST APIs?
 **HTTP Status Codes**: are used to convey the results of a request, for example 200 (OK) generally means the request was carried out successfully
 
 ---
-**API**: is a set of subroutine definitions, protocols, and tools for building application software. In general terms, it is a set of clearly defined methods of communication between various software components
+**API**: Application Programming Interface is a set of subroutine definitions, protocols, and tools for building application software. In general terms, it is a set of clearly defined methods of communication between various software components
 
 ---
 **Web API**: In simple words **web apis** enable communication between several machines
@@ -91,7 +91,7 @@ What is our current understanding and awareness of HTTP and REST APIs?
 **SOAP (Simple Object Access Protocol)**: SOAP is an XML-based messaging protocol. It defines a set of rules for structuring messages that can be used for simple one-way messaging but is particularly useful for performing RPC-style (Remote Procedure Call) request-response dialogues. 
 
 ---
-**REST**: Representational state transfer (REST) or RESTful web services are a way of providing interoperability between computer systems on the Internet. REST-compliant Web services allow requesting systems to access and manipulate textual representations of Web resources using a uniform and predefined set of stateless operations. 
+**REST**: Representational State Transfer or RESTful web services are a way of providing interoperability between computer systems on the Internet. REST-compliant Web services allow requesting systems to access and manipulate textual representations of Web resources using a uniform and predefined set of stateless operations. 
 
 ---
 **RESTful API**: A RESTful API is an application program interface (API) that uses HTTP requests to GET, PUT, POST and DELETE data.
