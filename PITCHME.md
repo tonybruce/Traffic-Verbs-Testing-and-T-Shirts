@@ -299,7 +299,9 @@ It is used to interact with APIs through the requests and responses which are ea
 Launch Postman (you may receive a short-cuts modal, close it).  
 
 You will receive a window similar to this
+
 ![Get](assets/postman_blank.png)
+
 +++?
 
 ## Creating a request
