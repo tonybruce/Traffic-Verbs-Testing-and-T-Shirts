@@ -239,6 +239,36 @@ Any body required
 There will be a decision made on correctness
 
 ---
+## Challenge 1
+
+GET all conference types
+
+---
+## Challenge 2
+
+GET only active conference types
+
+---
+## Challenge 3
+
+GET only `active` conference types
+
+---
+## Challenge 4
+
+GET me the first conference type
+
+---
+## Challenge 5
+
+Create a new conference type called `Open House` and make it `active`
+
+---
+## Challenge 6
+
+Disable conference type `Workshop` 
+
+---
 
 TODO Poster with HTTP verbs 
 
