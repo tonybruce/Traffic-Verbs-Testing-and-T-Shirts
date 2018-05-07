@@ -1,11 +1,6 @@
 @title[Traffic, Verbs, Testing & T-Shirts]
 
-### Traffic, Verbs, Testing & T-Shirts
-
-##### @sharathb and @tonybruce77
-<br>
-<br>
-
+---?image=assets/rtc_background.png
 
 ---
 ## Warm up
