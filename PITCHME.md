@@ -567,3 +567,4 @@ These will be live for today only
 - https://httpstatusdogs.com/
 - http://www.dummies.com/programming/networking/layers-in-the-osi-model-of-a-computer-network/
 - https://httpstatuses.com/ 
+- https://blog.developer.sabre.com/blog/2016/04/13/rest-vs-soap/
