@@ -347,6 +347,12 @@ The response (visible in the bottom half of the window) will contain a body with
 There will also be a status code visible, is this request was successful it should display 200 OK
 
 ---
+
+## Advanced Rest Client
+
+![Get](assets/ARC1.PNG)
+
+---
 ## Burp Suite
 
 ![Get](assets/38118.png)
