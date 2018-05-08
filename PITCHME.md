@@ -375,19 +375,23 @@ Form the request needed
 
 *Tool - What tool would you use?
 
++++?
+
+Answer:
+https://http.cat/[status_code]
+
 ---
 **Challenge 2**: Request a "big" cover for the book "The Gruffalo" from https://openlibrary.org
 
 Browse to https://openlibrary.org/dev/docs/api/books
 
-For the request needed
+Form the request needed
 
 *Tool - What tool would you use?
 
 +++?
 
 *Format: https://openlibrary.org/api/books?bibkeys=ISBN:<>
-
 *Documentation: https://openlibrary.org/dev/docs/api/books
 
 **Tips - ISBN:0333710932
