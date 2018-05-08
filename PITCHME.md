@@ -363,6 +363,20 @@ A graphical tool for testing Web application security.
 
 ---
 
+## Swagger
+
+![Get](assets/Swagger.PNG)
+
+https://swagger.io/
+
++++?
+
+Examples: 
+
+https://reverb.com/swagger#/categories
+
+---
+
 ## Public APIs - Challenges
 
 ---
