@@ -94,7 +94,7 @@ What is our current understanding and awareness of HTTP and REST APIs?
 ---
 
 # EXERCISE
-![Get](assets/tshirt.png)
+![Get](assets/blanktshirt.png)
 
 +++?
 
