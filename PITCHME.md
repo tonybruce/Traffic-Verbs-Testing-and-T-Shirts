@@ -166,6 +166,13 @@ What are we now aware of?
 
 XML and JSON
 
+
+During the debriefs download
+- Curl
+- Postman
+- Advanced Rest Client
+- Burp Suite
+
 ---
 ## JSON
 
@@ -226,6 +233,10 @@ XML and JSON
 
 ---
 
+## Break
+
+---
+
 **REST**: Representational State Transfer or RESTful web services are a way of providing interoperability between computer systems on the Internet. REST-compliant Web services allow requesting systems to access and manipulate textual representations of Web resources using a uniform and predefined set of stateless operations. 
 
 ---
@@ -247,8 +258,8 @@ XML and JSON
 
 source: https://blog.restcase.com/the-rise-of-rest-api/
 
-
 ---
+
 ## How does HTTP work?
 
 Client-server* transactions consist of three main parts.
@@ -341,6 +352,10 @@ You will see a POST request
 ---
 
 ![Get](assets/post2.png)
+
+---
+
+## Break
 
 ---
 
