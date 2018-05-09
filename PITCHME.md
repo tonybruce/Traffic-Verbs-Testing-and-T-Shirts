@@ -347,6 +347,12 @@ The response (visible in the bottom half of the window) will contain a body with
 There will also be a status code visible, is this request was successful it should display 200 OK
 
 ---
+
+## Advanced Rest Client
+
+![Get](assets/ARC1.PNG)
+
+---
 ## Burp Suite
 
 ![Get](assets/38118.png)
@@ -354,6 +360,20 @@ There will also be a status code visible, is this request was successful it shou
 https://portswigger.net/burp
 
 A graphical tool for testing Web application security.
+
+---
+
+## Swagger
+
+![Get](assets/Swagger.PNG)
+
+https://swagger.io/
+
++++?
+
+Examples: 
+
+https://reverb.com/swagger#/categories
 
 ---
 
@@ -369,19 +389,23 @@ Form the request needed
 
 *Tool - What tool would you use?
 
++++?
+
+Answer:
+https://http.cat/[status_code]
+
 ---
 **Challenge 2**: Request a "big" cover for the book "The Gruffalo" from https://openlibrary.org
 
 Browse to https://openlibrary.org/dev/docs/api/books
 
-For the request needed
+Form the request needed
 
 *Tool - What tool would you use?
 
 +++?
 
 *Format: https://openlibrary.org/api/books?bibkeys=ISBN:<>
-
 *Documentation: https://openlibrary.org/dev/docs/api/books
 
 **Tips - ISBN:0333710932
@@ -564,3 +588,4 @@ These will be live for today only
 - https://httpstatusdogs.com/
 - http://www.dummies.com/programming/networking/layers-in-the-osi-model-of-a-computer-network/
 - https://httpstatuses.com/ 
+- https://blog.developer.sabre.com/blog/2016/04/13/rest-vs-soap/
