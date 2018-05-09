@@ -397,6 +397,8 @@ Answer: 2 possible approaches
 4. Replace S with L
 5. GET call to https://covers.openlibrary.org/b/id/6506875-L.jpg
 
++++?
+
 1. Find the ISBN for the book from the web
 2. From documentation learn adding & to the query by ISBN format [https://openlibrary.org/api/books?bibkeys=ISBN:0333710932&jscmd=data]
 3. Look up for response "large": "https://covers.openlibrary.org/b/id/6506875-L.jpg"
@@ -411,7 +413,8 @@ Answer: 2 possible approaches
 
 +++?
 
-Answer - https://en.wikipedia.org/w/api.php?action=query&titles=The%20Lord%20of%20the%20Rings&export&exportnowrap
+Answer - 
+https://en.wikipedia.org/w/api.php?action=query&titles=The%20Lord%20of%20the%20Rings&export&exportnowrap
 
 ---
 
@@ -509,9 +512,9 @@ It has a api
 
 API details are here: 
 
-https://www.redmine.org/projects/redmine/wiki/Rest_api
+##### https://www.redmine.org/projects/redmine/wiki/Rest_api
 
-http://www.redmine.org/projects/redmine/wiki/Rest_api_with_curl
+##### http://www.redmine.org/projects/redmine/wiki/Rest_api_with_curl
 
 ---
 
