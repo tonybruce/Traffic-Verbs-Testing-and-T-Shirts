@@ -556,7 +556,8 @@ Answer -
 
 +++?
 
-Answer - https://www.googleapis.com/books/v1/volumes?q=a+game+of+thrones&filter=ebooks&maxResults=1
+Answer - 
+##### https://www.googleapis.com/books/v1/volumes?q=a+game+of+thrones&filter=ebooks&maxResults=1
 
 ---
 
@@ -568,7 +569,8 @@ Answer - https://www.googleapis.com/books/v1/volumes?q=a+game+of+thrones&filter=
 
 +++?
 
-*Documentation - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
+*Documentation - 
+##### https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
 
 **At times the documentation might suck. So google your way through to build the query?
 
