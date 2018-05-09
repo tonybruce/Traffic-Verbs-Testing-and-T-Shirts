@@ -287,6 +287,9 @@ It is also the internet transfer backbone for thousands of software applications
 
 ---
 
+In your terminal type: curl https://curl.haxx.se
+
+
 ## Postman
 
 ![Get](assets/postman.png)
