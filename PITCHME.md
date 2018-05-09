@@ -167,6 +167,8 @@ What are we now aware of?
 XML and JSON
 
 ---
+## JSON
+
 ```[
     {
         "id": "01",
@@ -193,6 +195,8 @@ XML and JSON
 ---
 
 ```
+
+## XML
 
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
