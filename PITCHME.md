@@ -117,7 +117,6 @@ At the client create the request
 Each request needs -  
 The URL
 The correct verb  
-Any headers required  
 Any body required  
 
 +++?
@@ -126,7 +125,6 @@ Take the request to the server
 At the server create the response  
 Each response needs -  
 The correct status code  
-Any headers required  
 Any body required  
 
 +++?
@@ -160,9 +158,10 @@ Disable conference type `Workshop`
 
 ---
 
-**SOAP**: Simple Object Access Protocol is an XML-based messaging protocol. It defines a set of rules for structuring messages that can be used for simple one-way messaging but is particularly useful for performing RPC-style (Remote Procedure Call) request-response dialogues. 
+## Debrief
 
 ---
+
 **REST**: Representational State Transfer or RESTful web services are a way of providing interoperability between computer systems on the Internet. REST-compliant Web services allow requesting systems to access and manipulate textual representations of Web resources using a uniform and predefined set of stateless operations. 
 
 ---
@@ -178,6 +177,13 @@ Disable conference type `Workshop`
 ![Get](assets/restVsSoap.jpg)
 
 source: https://blog.restcase.com/the-rise-of-rest-api/
+
+---
+
+**SOAP**: Simple Object Access Protocol is an XML-based messaging protocol. It defines a set of rules for structuring messages that can be used for simple one-way messaging but is particularly useful for performing RPC-style (Remote Procedure Call) request-response dialogues. 
+
+---
+
 
 ---
 ## How does HTTP work?
