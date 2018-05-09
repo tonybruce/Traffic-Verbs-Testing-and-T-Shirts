@@ -557,7 +557,7 @@ Answer -
 +++?
 
 Answer - 
-##### https://www.googleapis.com/books/v1/volumes?q=a+game+of+thrones&filter=ebooks&maxResults=1
+https://www.googleapis.com/books/v1/volumes?q=a+game+of+thrones&filter=ebooks&maxResults=1
 
 ---
 
