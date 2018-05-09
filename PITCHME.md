@@ -194,6 +194,12 @@ Disable conference type `Workshop`
 
 ---
 
+## Challenge 6
+
+Delete conference type `Workshop` 
+
+---
+
 ## Debrief
 
 What just happened?
