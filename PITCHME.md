@@ -92,6 +92,74 @@ What is our current understanding and awareness of HTTP and REST APIs?
 ![Get](assets/whatIsAnApi.png)
 
 ---
+
+# EXERCISE
+![Get](assets/tshirt.png)
+
++++?
+
+Your table needs to split into 3 parts:
+
+Request/Response  
+Client  
+Server  
+
++++?
+The t-shirts are the verbs 
+
+One person wears the t-shirt
+
+The correct verb has to be written on the t-shirt  
+
++++?
+
+At the client create the request  
+Each request needs -  
+The URL
+The correct verb  
+Any headers required  
+Any body required  
+
++++?
+
+Take the request to the server  
+At the server create the response  
+Each response needs -  
+The correct status code  
+Any headers required  
+Any body required  
+
++++?
+
+There will be a decision made on correctness
+
+---
+## Challenge 1
+
+Retrieve all conference types
+
+---
+## Challenge 2
+
+Retrieve only `active` conference types
+
+---
+## Challenge 3
+
+Retrieve the first conference type
+
+---
+## Challenge 4
+
+Create a new conference type called `Open House` and make it `active`
+
+---
+## Challenge 5
+
+Disable conference type `Workshop` 
+
+---
+
 **SOAP**: Simple Object Access Protocol is an XML-based messaging protocol. It defines a set of rules for structuring messages that can be used for simple one-way messaging but is particularly useful for performing RPC-style (Remote Procedure Call) request-response dialogues. 
 
 ---
@@ -204,79 +272,6 @@ You will see a POST request
 ---
 
 ![Get](assets/post2.png)
-
----
-
-## EXERCISE
-![Get](assets/tshirt.png)
-
-+++?
-
-Your table needs to split into 3 parts:
-
-Request/Response  
-Client  
-Server  
-
-+++?
-The t-shirts are the verbs 
-
-One person wears the t-shirt
-
-The correct verb has to be written on the t-shirt  
-
-+++?
-
-At the client create the request  
-Each request needs -  
-The URL
-The correct verb  
-Any headers required  
-Any body required  
-
-+++?
-
-Take the request to the server  
-At the server create the response  
-Each response needs -  
-The correct status code  
-Any headers required  
-Any body required  
-
-+++?
-
-There will be a decision made on correctness
-
----
-## Challenge 1
-
-Retrieve all conference types
-
----
-## Challenge 2
-
-Retrieve only `active` conference types
-
----
-## Challenge 3
-
-Retrieve the first conference type
-
----
-## Challenge 4
-
-Create a new conference type called `Open House` and make it `active`
-
----
-## Challenge 5
-
-Disable conference type `Workshop` 
-
----
-
-TODO Poster with HTTP verbs 
-
-TODO Poster with status codes
 
 ---
 
