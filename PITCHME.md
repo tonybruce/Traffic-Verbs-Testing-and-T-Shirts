@@ -73,6 +73,12 @@ What is our current understanding and awareness of HTTP and REST APIs?
 
 ---
 
+**Web API**: In simple words **web apis** enable communication between several machines
+
+![Get](assets/whatIsAnApi.png)
+
+---
+
 **HTTP**: HyperText Transfer Protocol is an application protocol for distributed, collaborative, and hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web
 
 ---
@@ -84,12 +90,6 @@ What is our current understanding and awareness of HTTP and REST APIs?
 ---
 
 **HTTP Headers:** carry information such as information about the client browser, the requested page, the server and etc
-
----
-
-**Web API**: In simple words **web apis** enable communication between several machines
-
-![Get](assets/whatIsAnApi.png)
 
 ---
 
