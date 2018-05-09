@@ -93,6 +93,45 @@ What is our current understanding and awareness of HTTP and REST APIs?
 
 ---
 
+## HTTP Status Codes
+
+**1xx** Informational responses
+
+**2xx** Success
+
+**3xx** Redirection
+
+**4xx** Client errors
+
+**5xx** Server errors
+
++++?
+
+**100 Continue**
+The initial part of a request has been received and has not yet been rejected by the server.
+The server intends to send a final response after the request has been fully received and acted upon.
+
++++?
+**200 OK**
+Standard response for successful HTTP requests. The actual response will depend on the request method used.
+In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request,
+the response will contain an entity describing or containing the result of the action.
+
++++?
+**302 Found**
+The target resource resides temporarily under a different URI. Since the redirection might be altered on occasion,
+the client ought to continue to use the effective request URI for future requests. 
+
++++?
+**404 Not Found**
+The origin server did not find a current representation for the target resource or is not willing to disclose that one exists.
+
++++?S
+**500 Interval Server Error**
+The server encountered an unexpected condition that prevented it from fulfilling the request.
+
+---
+
 # EXERCISE
 ![Get](assets/blanktshirt.png)
 
@@ -570,7 +609,7 @@ https://www.googleapis.com/books/v1/volumes?q=a+game+of+thrones&filter=ebooks&ma
 +++?
 
 *Documentation - 
-##### https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
+https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
 
 **At times the documentation might suck. So google your way through to build the query?
 
@@ -599,45 +638,6 @@ console.log(myJson);
 
 ---
 
-## HTTP Status Codes
-
-**1xx** Informational responses
-
-**2xx** Success
-
-**3xx** Redirection
-
-**4xx** Client errors
-
-**5xx** Server errors
-
----
-
-**100 Continue**
-The initial part of a request has been received and has not yet been rejected by the server.
-The server intends to send a final response after the request has been fully received and acted upon.
-
----
-**200 OK**
-Standard response for successful HTTP requests. The actual response will depend on the request method used.
-In a GET request, the response will contain an entity corresponding to the requested resource. In a POST request,
-the response will contain an entity describing or containing the result of the action.
-
----
-**302 Found**
-The target resource resides temporarily under a different URI. Since the redirection might be altered on occasion,
-the client ought to continue to use the effective request URI for future requests. 
-
----
-**404 Not Found**
-The origin server did not find a current representation for the target resource or is not willing to disclose that one exists.
-
----
-**500 Interval Server Error**
-The server encountered an unexpected condition that prevented it from fulfilling the request.
-
----
-
 **Redmine**
 
 Redmine is a flexible project management web application. Written using the Ruby on Rails framework, it is cross-platform and cross-database.
@@ -646,9 +646,9 @@ It has a api
 
 API details are here: 
 
-##### https://www.redmine.org/projects/redmine/wiki/Rest_api
+https://www.redmine.org/projects/redmine/wiki/Rest_api
 
-##### http://www.redmine.org/projects/redmine/wiki/Rest_api_with_curl
+http://www.redmine.org/projects/redmine/wiki/Rest_api_with_curl
 
 ---
 
