@@ -354,10 +354,6 @@ You will see a POST request
 
 ---
 
-## Break
-
----
-
 ## Curl
 
 ![Get](assets/curl.png)  
@@ -515,6 +511,7 @@ Form the request needed
 +++?
 
 *Format: https://openlibrary.org/api/books?bibkeys=ISBN:<>
+
 *Documentation: https://openlibrary.org/dev/docs/api/books
 
 **Tips - ISBN:0333710932
@@ -547,7 +544,7 @@ Answer: 2 possible approaches
 +++?
 
 Answer - 
-https://en.wikipedia.org/w/api.php?action=query&titles=The%20Lord%20of%20the%20Rings&export&exportnowrap
+##### https://en.wikipedia.org/w/api.php?action=query&titles=The%20Lord%20of%20the%20Rings&export&exportnowrap
 
 ---
 
@@ -568,6 +565,8 @@ Answer - https://www.googleapis.com/books/v1/volumes?q=a+game+of+thrones&filter=
 [https://itunes.apple.com/us/album/the-rains-of-castamere-from-game-of-thrones-single/892454207]
 
 *Tool - ARC (Rest Client)
+
++++?
 
 *Documentation - https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
 
