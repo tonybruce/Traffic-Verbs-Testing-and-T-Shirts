@@ -637,9 +637,6 @@ Answer - fetch('http://api.open-notify.org/astros.json')
 console.log(myJson);
   });
 ---
-## Scenario bash
-
----
 
 **Redmine**
 
@@ -653,7 +650,17 @@ https://www.redmine.org/projects/redmine/wiki/Rest_api
 
 http://www.redmine.org/projects/redmine/wiki/Rest_api_with_curl
 
----
++++?
+
+## Scenario bash
+
+Explore Redmine
+
+- What would you like to test?
+- What do you want to learn?
+- What do you want to try?
+
++++?
 
 IP Address | Username | Password
 ------------ | ------------- | -------------
@@ -661,6 +668,10 @@ IP Address | Username | Password
 | user | uy4y0OVq2XVq
 
 These will be live for today only
+
+---
+
+## Round up
 
 ---
 
