@@ -167,6 +167,58 @@ What are we now aware of?
 XML and JSON
 
 ---
+`[
+    {
+        "id": "01",
+        "conference_type": "Workshop",
+        "active": true
+    },
+    {
+        "id": "02",
+        "conference_type": "Talk",
+        "active": true
+    },
+    {
+        "id": "03",
+        "conference_type": "Tutorial",
+        "active": true
+    },
+    {
+        "id": "04",
+        "conference_type": "Keynote",
+        "active": false
+    }
+]`
+
+---
+`<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <element>
+      <active>true</active>
+      <conference_type>Workshop</conference_type>
+      <id>01</id>
+   </element>
+   <element>
+      <active>true</active>
+      <conference_type>Talk</conference_type>
+      <id>02</id>
+   </element>
+   <element>
+      <active>true</active>
+      <conference_type>Tutorial</conference_type>
+      <id>03</id>
+   </element>
+   <element>
+      <active>false</active>
+      <conference_type>Keynote</conference_type>
+      <id>04</id>
+   </element>
+</root>`
+
+
+
+
+---
 
 **REST**: Representational State Transfer or RESTful web services are a way of providing interoperability between computer systems on the Internet. REST-compliant Web services allow requesting systems to access and manipulate textual representations of Web resources using a uniform and predefined set of stateless operations. 
 
