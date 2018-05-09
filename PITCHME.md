@@ -2,7 +2,6 @@
 
 ---?image=assets/rtc_background.png&size=auto 90%
 
-
 ---
 
 ## Warm up
@@ -664,8 +663,8 @@ Explore Redmine
 
 IP Address | Username | Password
 ------------ | ------------- | -------------
-| user | IJSViKfeUDX5
-| user | uy4y0OVq2XVq
+18.130.47.124 | user | IJSViKfeUDX5
+52.56.112.201 | user | uy4y0OVq2XVq
 
 These will be live for today only
 
