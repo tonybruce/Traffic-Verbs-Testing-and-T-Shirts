@@ -167,7 +167,7 @@ What are we now aware of?
 XML and JSON
 
 ---
-`[
+```[
     {
         "id": "01",
         "conference_type": "Workshop",
@@ -188,10 +188,10 @@ XML and JSON
         "conference_type": "Keynote",
         "active": false
     }
-]`
+]```
 
 ---
-`<?xml version="1.0" encoding="UTF-8"?>
+```<?xml version="1.0" encoding="UTF-8"?>
 <root>
    <element>
       <active>true</active>
@@ -213,7 +213,7 @@ XML and JSON
       <conference_type>Keynote</conference_type>
       <id>04</id>
    </element>
-</root>`
+</root>```
 
 
 
