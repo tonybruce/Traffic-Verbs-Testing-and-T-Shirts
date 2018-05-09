@@ -235,18 +235,17 @@ XML and JSON
 ![Get](assets/tech.jpg)
 
 ---
+
+**SOAP**: Simple Object Access Protocol is an XML-based messaging protocol. It defines a set of rules for structuring messages that can be used for simple one-way messaging but is particularly useful for performing RPC-style (Remote Procedure Call) request-response dialogues. 
+
+---
+
 **REST vs SOAP**:
 
 
 ![Get](assets/restVsSoap.jpg)
 
 source: https://blog.restcase.com/the-rise-of-rest-api/
-
----
-
-**SOAP**: Simple Object Access Protocol is an XML-based messaging protocol. It defines a set of rules for structuring messages that can be used for simple one-way messaging but is particularly useful for performing RPC-style (Remote Procedure Call) request-response dialogues. 
-
----
 
 
 ---
