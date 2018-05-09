@@ -341,7 +341,7 @@ In the ‘Enter request URL’ field enter:  https://postman-echo.com/time/leap?
 
 Click Send
 
-2016 was the last leap year
+2016 was the last leap year - Check this against the api
 
 +++?
 
@@ -364,7 +364,16 @@ https://portswigger.net/burp
 
 A graphical tool for testing Web application security.
 
----
++++?
+
+Instructions for setting up Burp Suite are here:
+https://goo.gl/d8uiLM
+
+You may need a certificate:
+https://goo.gl/quCzbg
+
++++?
+
 
 ## Swagger
 
