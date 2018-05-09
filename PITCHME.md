@@ -372,7 +372,21 @@ https://goo.gl/d8uiLM
 You may need a certificate:
 https://goo.gl/quCzbg
 
+---
+
+## Challenges
+
+How would you change a request?
+
+Change data in a request
+
 +++?
+
+How would you change a response?
+
+Change the response code
+
+---
 
 
 ## Swagger
