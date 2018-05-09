@@ -191,6 +191,7 @@ XML and JSON
 ]```
 
 ---
+
 ```<?xml version="1.0" encoding="UTF-8"?>
 <root>
    <element>
@@ -214,9 +215,6 @@ XML and JSON
       <id>04</id>
    </element>
 </root>```
-
-
-
 
 ---
 
