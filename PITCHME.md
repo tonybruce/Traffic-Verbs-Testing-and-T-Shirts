@@ -160,6 +160,12 @@ Disable conference type `Workshop`
 
 ## Debrief
 
+What just happened?
+
+What are we now aware of?
+
+XML and JSON
+
 ---
 
 **REST**: Representational State Transfer or RESTful web services are a way of providing interoperability between computer systems on the Internet. REST-compliant Web services allow requesting systems to access and manipulate textual representations of Web resources using a uniform and predefined set of stateless operations. 
