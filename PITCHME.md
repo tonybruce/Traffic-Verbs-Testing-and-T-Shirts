@@ -166,13 +166,6 @@ What are we now aware of?
 
 XML and JSON
 
-
-During the debriefs download
-- Curl
-- Postman
-- Advanced Rest Client
-- Burp Suite
-
 ---
 ## JSON
 
@@ -234,6 +227,12 @@ During the debriefs download
 ---
 
 ## Break
+
+During the break download
+- Curl
+- Postman
+- Advanced Rest Client
+- Burp Suite
 
 ---
 
