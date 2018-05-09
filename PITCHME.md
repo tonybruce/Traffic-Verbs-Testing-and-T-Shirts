@@ -285,10 +285,11 @@ https://curl.haxx.se/
 curl is used in command lines or scripts to transfer data. 
 It is also the internet transfer backbone for thousands of software applications affecting billions of humans daily.
 
----
++++?
 
 In your terminal type: curl https://curl.haxx.se
 
+---
 
 ## Postman
 
