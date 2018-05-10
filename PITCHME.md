@@ -667,10 +667,9 @@ IP Address | Username | Password
 52.56.112.201 | user | uy4y0OVq2XVq
 18.206.124.106 | johnsnow | Password0. |
 
+* For the first two instances the user accounts all have a password of: Passw0rd
 * For the last instance you can retrieve a list of users
 * Consider authentication
-
-These will be live for today only
 
 ---
 
