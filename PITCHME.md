@@ -133,7 +133,7 @@ The server encountered an unexpected condition that prevented it from fulfilling
 
 +++?
 
-Your table needs to split into 3 parts:
+Your group needs to split into 3 parts:
 
 Request/Response  
 Client  
@@ -668,10 +668,9 @@ IP Address | Username | Password
 18.206.124.106 | johnsnow | Password0. |
 
 * For the last instance you can retrieve a list of users
+* Consider authentication
 
 These will be live for today only
-
-
 
 ---
 
