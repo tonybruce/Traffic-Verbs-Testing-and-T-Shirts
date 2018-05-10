@@ -123,7 +123,7 @@ the client ought to continue to use the effective request URI for future request
 The origin server did not find a current representation for the target resource or is not willing to disclose that one exists.
 
 +++?S
-**500 Interval Server Error**
+**500 Internal Server Error**
 The server encountered an unexpected condition that prevented it from fulfilling the request.
 
 ---
