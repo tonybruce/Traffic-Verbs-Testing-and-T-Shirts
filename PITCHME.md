@@ -496,15 +496,15 @@ https://goo.gl/quCzbg
 
 ## Challenges
 
-How would you change a request?
+Explore Burp Suite and find:
 
-Change data in a request
+How would you change a request?
+- Change data in a request
 
 +++?
 
 How would you change a response?
-
-Change the response code
+- Change the response code
 
 ---
 
@@ -665,7 +665,9 @@ IP Address | Username | Password
 ------------ | ------------- | -------------
 18.130.47.124 | user | IJSViKfeUDX5
 52.56.112.201 | user | uy4y0OVq2XVq
-18.206.124.106 | | |
+18.206.124.106 | johnsnow | Password0. |
+
+* For the last instance you can retrieve a list of users
 
 These will be live for today only
 
