@@ -26,8 +26,7 @@ Tron!
     * REST-Server  
     
 +++?    
-    * Curl  
-    * WireMock
+    * Curl 
     * Swagger
     * Browser dev tools
 
@@ -45,6 +44,17 @@ What is our current understanding and awareness of HTTP and REST APIs?
 ## Background: What are the technologies?
 
 ---
+
+**API**: Application Programming Interface is a set of subroutine definitions, protocols, and tools for building application software. In general terms, it is a set of clearly defined methods of communication between various software components
+
+---
+
+**Web API**: In simple words **web apis** enable communication between several machines
+
+![Get](assets/whatIsAnApi.png)
+
+---
+
 **Open Systems Interconnection (OSI) reference model**: is reference model for how applications can communicate over a network.
 +++?image=assets/osiChuckNorris.png&size=contain
 
@@ -65,16 +75,6 @@ What is our current understanding and awareness of HTTP and REST APIs?
 +++?
 
 **Physical** addresses the physical characteristics of the network, such as the types of cables used to connect devices, the types of connectors used, how long the cables can be, and so on  
-
----
-
-**API**: Application Programming Interface is a set of subroutine definitions, protocols, and tools for building application software. In general terms, it is a set of clearly defined methods of communication between various software components
-
----
-
-**Web API**: In simple words **web apis** enable communication between several machines
-
-![Get](assets/whatIsAnApi.png)
 
 ---
 
