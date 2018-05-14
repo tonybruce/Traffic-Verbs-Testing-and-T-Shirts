@@ -1,6 +1,9 @@
+---?image=assets/rtc_background.png&size=auto 90%
+
+
 @title[Traffic, Verbs, Testing & T-Shirts]
 
----?image=assets/rtc_background.png&size=auto 90%
+
 
 ---
 
