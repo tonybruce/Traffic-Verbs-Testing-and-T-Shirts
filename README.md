@@ -23,6 +23,6 @@ Key Takeaways
 - Testing REST APIs
 - Introduction to GraphQL
 - Why another API? - REST weakness
-- How to use REST APIs (exercises)
-- Testing REST APIs
+- How to use GraphQL (exercises)
+- Testing GraphQL
 
