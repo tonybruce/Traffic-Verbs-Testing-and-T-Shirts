@@ -12,3 +12,17 @@ How do we explore and test Web APIs?
 Key Takeaways
 - As an attendee of this workshop you’ll leave with a deeper understanding of HTTP/S along with some additional tools for your tool belt. 
 - The technical skills will assist you when testing products that utilise HTTP/S, such as websites, REST APIs and Microservices.
+
+
+
+# Structure
+
+- Introduction to REST APIs
+- Understanding REST APIs (exercises)
+- How to use REST APIs (exercises)
+- Testing REST APIs
+- Introduction to GraphQL
+- Why another API? - REST weakness
+- How to use REST APIs (exercises)
+- Testing REST APIs
+
